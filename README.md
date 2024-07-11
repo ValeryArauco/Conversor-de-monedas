@@ -1,5 +1,5 @@
-# Proyecto de Conversor de Monedas 
-![img.png](img.png)
+# Proyecto de Conversor de Monedas
+![img_1.png](img_1.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Gson](https://img.shields.io/badge/Gson-0A66C2?style=for-the-badge&logo=gson&logoColor=white)
 ![API](https://img.shields.io/badge/API-ExchangeRate-00A9E0?style=for-the-badge&logo=api&logoColor=white)
